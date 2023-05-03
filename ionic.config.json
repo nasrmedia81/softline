@@ -1,0 +1,8 @@
+{
+  "name": "Softline",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d8d47c29"
+}
